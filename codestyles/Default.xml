@@ -9,7 +9,6 @@
     <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="LAMBDA_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
